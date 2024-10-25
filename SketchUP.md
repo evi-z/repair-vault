@@ -1,5 +1,6 @@
 ##### Ссылки
 [Огурцов, Бонусное видео (про снятие размеров)](https://oguru.pro/1/bonus)
+[Плейлист Огурцова](https://www.youtube.com/watch?v=DIjKOzKFx9I&list=PLb_jwEojNw4aBA2D9GgrMn_SSszNi15se) 
 
 Посмотреть онлайн программы для чертежей
 ##### Паттерны проектирования
