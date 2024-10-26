@@ -1,0 +1,1 @@
+![[Gimmel_F88_user_manual.pdf]]
